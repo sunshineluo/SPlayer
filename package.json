@@ -8,7 +8,7 @@
   "github": "https://github.com/imsyy/SPlayer",
   "repository": "github:imsyy/SPlayer",
   "engines": {
-    "node": ">=16.16.0"
+    "node": ">=16.0.0"
   },
   "packageManager": "pnpm@8.12.0",
   "scripts": {
